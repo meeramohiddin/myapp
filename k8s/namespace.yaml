@@ -1,0 +1,7 @@
+apiVesrion: v1
+kind: Namespace
+metadata:
+    Name: expense
+    lables:
+        project: expense
+        environement: dev
